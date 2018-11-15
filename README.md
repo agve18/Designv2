@@ -1,2 +1,3 @@
-# Designv2
-My me/redovisa in course Design V2
+Repository information
+======================
+This repository contains material from the excercises in BTH course PA1436 Design
