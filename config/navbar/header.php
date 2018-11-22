@@ -6,7 +6,7 @@ return [
     // Use for styling the menu
     "wrapper" => null,
     "class" => "my-navbar rm-default rm-desktop",
- 
+
     // Here comes the menu items
     "items" => [
         [
@@ -39,7 +39,7 @@ return [
             "title" => "Om denna webbplats.",
         ],
         [
-            "text" => "Styleväljare",
+            "text" => "Stilväljare",
             "url" => "style",
             "title" => "Välj stylesheet.",
         ],
@@ -47,6 +47,11 @@ return [
             "text" => "Verktyg",
             "url" => "verktyg",
             "title" => "Verktyg och möjligheter för utveckling.",
+        ],
+        [
+            "text" => "Test",
+            "url" => "test",
+            "title" => "Testsida för Markdown.",
         ],
     ],
 ];

@@ -1,25 +1,39 @@
 ---
-title: "Min fina titel"
+title: "Webbkursen"
+views:
+    byline:
+        region: main
+        template: anax/v2/block/default
+        sort: 2
+        data:
+            meta:
+                type: single
+                route: block/byline
 ---
-Min me-sida i kursen design
-=========================
+Agnetas sida i BTH kursen PA1436/Design  
+=======================================
+Lite om vem jag är
+------------------
+Jag heter Agneta Westin, är född och uppvuxen i Göteborg, gick gymnasiet
+i Luleå och är nu sedan drygt 40 år bosatt i Stockholm.<br>
+Har precis avslutat mitt arbetsliv och kan syssla med precis vad jag vill.
+Inbillar jag mig....
+[FIGURE src="image/agve.jpg?w=150" class="right" caption="Bild på Agneta"]
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+Jag har arbetat med stordatorer i 40 år.<br>
+En mängd arbetsgivare har passerat revy utan att jag behövt söka jobb.<br>
+Sammanslagningar/uppköp och globalisering har varit populärt.<br>
+HP, Volvo IT och HCL var de sista i raden av mina arbetsgivare.<br>
+Jag har haft arbetskamrater i en rad olika länder.<br>
+Amerika,Holland,Tyskland,England,Frankrike,Spanien,Indien,Costa Rica.....<br>
+Det har varit spännande år med möten av olika kulturer och arbetssätt.<br>
+Min främsta sysselsättning har varit transaktionssystem dvs. installation/anpassning av softvaror, felsökning och bevakning av prestanda.<br>
+Från början hette jobbet jag utförde systemprogrammering men numera kallas det något annat tjusigt på engelska.
 
-[FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
+[FIGURE src="image/vandring.jpg?w=150" class="left" caption="Bild På vandring"]
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Mina första stapplande steg i programmering tog jag i programspråket ALGOL och då var det hålkort som gällde.<br>
+Terminaler med interface a la cygwin64 introducerades i samband med att jag började jobba 'på riktigt' 1977.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
-
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
-
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+Går den här kursen för att få lite mer inblick i utvecklingsarbetet bakom alla webb-sidor.<br>
+/Agneta
