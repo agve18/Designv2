@@ -1,0 +1,123 @@
+/**
+ * Layout style for general structure of header, navbar, main, footer
+ * and other regions of the page including route specific styles.
+ */
+
+/**
+ * Variables
+ */
+
+
+/**
+ * General layout
+ */
+ .inner-wrap {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #b0bec57a;
+}
+/**
+**
+* Main and sidebar layout layout
+*/
+.inner-wrap-main {
+    overflow: auto;
+}
+
+.region-main {
+    width: 70%;
+    margin-left: 10%;
+    float: left;
+    overflow: auto;
+
+    &.has-sidebar{
+        margin-left: 0;
+    }
+    &.has-sidebar-left.has-sidebar-right {
+        width: 60%;
+    }
+}
+
+.has-sidebar-left.has-sidebar-right,
+.has-sidebar-right.has-sidebar-left{
+    width: 20%;
+}
+
+.region-sidebar-right,
+.region-sidebar-left {
+    width: 30%;
+    float: left;
+}
+
+//wrapper.all {
+//    max-width: 800px;
+//    margin: 0 auto;
+//    background-color: #b0bec57a;
+//    background-color: #bbdcef;
+//}
+
+/* Hide submenu, leave this to kmom02 */
+.rm-desktop ul {
+    display: none;
+}
+
+/* Hide responsive/mobile menu, leave this to kmom02 */
+.rm-navbar-max {
+    display: none;
+}
+
+.rm-navbar ul {
+    list-style: none;
+    font-size: 20px;
+}
+
+//article {
+//    padding-left: 1em;
+//    padding-bottom: 2em;
+//}
+.site-logo {
+    display: none;
+}
+
+.site-logo-text {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+figure.figure.right {
+    float: right;
+    clear:right;
+    margin: 0;
+}
+
+.figure.figure.right::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+figure.figure.left {
+    float: left;
+    clear:both;
+    margin-right: : 2px;
+    margin-bottom: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.outer-wrap-footer
+.inner-wrap-footer {
+    background-color: #b0bec57a;
+    overflow: auto;
+}
+
+.footer-column {
+    width: 33.33%;
+    float: left;
+}
+
+//.block.site-footer {
+//    text-align: center;
+//}

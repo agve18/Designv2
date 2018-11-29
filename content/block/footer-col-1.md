@@ -1,3 +1,7 @@
-#### Footer col 1
+#### CSS Hjälpmedel
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+[CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+och [User guide](https://developer.mozilla.org/en-US/docs/Web/CSS)<br>
+[Codepen io](https://codepen.io/pen/)<br>
+[Less in depth](http://lesscss.org/features/)<br>
+[Less playground](http://lesscss.org/less-preview/)
